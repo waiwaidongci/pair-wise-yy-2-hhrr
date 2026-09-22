@@ -1,5 +1,8 @@
 node_modules/
 npm-debug.log*
+# 运行时台账（首次启动由 data/pigeons.json 迁移生成）
+data/station.json
+tmp-test/
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
